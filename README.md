@@ -32,6 +32,5 @@ baidu cloud: (comming soon).
 ****  
 **Notice:** 
 a. Because we have changed the original code of Faste RCNN and Faster RCNN, please replace the relevant files for running.  
-b. If you make changes to the accelerated code (CUDA), please recompile the file of CUDA/*.cu .  
-c.Due to the current project in the patent application and the caffe installation is too complicated, now we provide a simple preview version, the simple version is written in pytorch
+b. Due to the current project in the patent application and the caffe installation is too complicated, now we provide a simple version, the simple version is written in **pytorch**
 
